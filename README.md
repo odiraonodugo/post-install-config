@@ -32,6 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![1](https://i.imgur.com/MTE2IPV.jpeg)
 
 Create the role Supreme Admin, and give it the accessbility that a supreme admin should have. Complete Control.
+On the [next tutorial](https://github.com/odiraonodugo/ticket-lifecycle), we will create Tickets and showcase the Ticket Lifecycle.
 
 ![2](https://i.imgur.com/uwz8rea.png)
 
