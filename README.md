@@ -103,3 +103,6 @@ It should look like this
 
 Update the New Ticket Options and follow the steps above. 
 
+Now let move to the page. [Ticket Lifecycle: Intake Through Resolution](https://github.com/odiraonodugo/ticket-lifecycle)
+
+
